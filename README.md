@@ -95,7 +95,7 @@ Wir arbeiten ständig an Verbesserungen:
 
 ## ❓ Häufig gestellte Fragen
 
-**P: Funktioniert Bike Tracker auch ohne Sensoren?**  
+**P: Funktioniert veloq auch ohne Sensoren?**  
 A: Ja! Die App zeichnet automatisch GPS-Daten auf. BLE-Sensoren sind optional für erweiterte Metriken.
 
 **P: Brauche ich eine Internetverbindung?**  
